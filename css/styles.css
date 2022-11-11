@@ -606,7 +606,7 @@ a {
   background-color: var(--accent-color);
 }
 
-.subscibe-wrap {
+.footer-form {
   display: flex;
   gap: 12px;
 }
@@ -645,7 +645,7 @@ a {
   border-radius: 4px;
   align-items: center;
   gap: 10px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .subscribe-icon {
